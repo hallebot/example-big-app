@@ -4,6 +4,6 @@ const { api } = require('./api');
 
 const app = express();
 
-app.use('/api', api);
+app.use('/apy', api);
 
 module.exports.app = app;
