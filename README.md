@@ -1,3 +1,1 @@
-# example-big-app
-
-## testing2
+# Example Big App
