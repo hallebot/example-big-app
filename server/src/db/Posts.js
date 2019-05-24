@@ -1,0 +1,23 @@
+
+module.exports.findAll = () => Promise.all([
+  { "id": 1, "name": "mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in" },
+  { "id": 2, "name": "amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus" },
+  { "id": 3, "name": "proin eu mi nulla ac enim in tempor turpis nec euismod" },
+  { "id": 4, "name": "justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam" },
+  { "id": 5, "name": "lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus" },
+  { "id": 6, "name": "integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis" },
+  { "id": 7, "name": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet" },
+  { "id": 8, "name": "ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem" },
+  { "id": 9, "name": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec" },
+  { "id": 10, "name": "interdum mauris ullamcorper purus sit amet nulla quisque arcu libero" },
+  { "id": 11, "name": "augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit" },
+  { "id": 12, "name": "hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam" },
+  { "id": 13, "name": "cum sociis natoque penatibus et magnis dis parturient montes nascetur" },
+  { "id": 14, "name": "magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede" },
+  { "id": 15, "name": "fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi" },
+  { "id": 16, "name": "lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum" },
+  { "id": 17, "name": "dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis" },
+  { "id": 18, "name": "etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam" },
+  { "id": 19, "name": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque" },
+  { "id": 20, "name": "mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices" },
+]);

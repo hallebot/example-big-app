@@ -1,0 +1,23 @@
+
+module.exports.findAll = () => Promise.all([
+  { "id": 1, "name": "ffreeth0" },
+  { "id": 2, "name": "gfullbrook1" },
+  { "id": 3, "name": "eperrie2" },
+  { "id": 4, "name": "llorne3" },
+  { "id": 5, "name": "edungee4" },
+  { "id": 6, "name": "brenard5" },
+  { "id": 7, "name": "jpastor6" },
+  { "id": 8, "name": "ckniveton7" },
+  { "id": 9, "name": "solliff8" },
+  { "id": 10, "name": "pminkin9" },
+  { "id": 11, "name": "alarkcuma" },
+  { "id": 12, "name": "rbeabyb" },
+  { "id": 13, "name": "nreallyc" },
+  { "id": 14, "name": "opontond" },
+  { "id": 15, "name": "fscurre" },
+  { "id": 16, "name": "efidelerf" },
+  { "id": 17, "name": "mtreneerg" },
+  { "id": 18, "name": "gcathelh" },
+  { "id": 19, "name": "psturtoni" },
+  { "id": 20, "name": "cthameltj" },
+]);
